@@ -23,8 +23,6 @@ class App extends Component {
         />
 
         <Text style={{ fontSize: 25 }}>{dados}</Text>
-
-
         <Text style={{ fontSize: 15, margin: 0}}>     Nome:Steve Moreira        
         </Text>        
         <Text style={{ fontSize: 15}}>     Idade:30 anos       

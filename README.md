@@ -1,8 +1,8 @@
 # Projeto Mobile com ReactNative
 Desenvolvimento de Aplicativos Mobile
 
-##tecnologias Utilizadas
-- ReactNative
+##tecnologias Utilizadas 
+- ReactNative  
 
 ## como utilizar
 1- baixar o projeto
